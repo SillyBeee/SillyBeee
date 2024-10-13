@@ -1,7 +1,9 @@
 # Hi there ! It's SillyBeee 👋
 - I'm now a student in HDU :blush:
 - Member of CV group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)   🥵🥵🥵🥵🥵🥵🥵🥵
-- A game lover  :yum:
+- A game lover  :yum: 💻
+- My email 3576527475a@gmail.com  📧
+- Contact me on QQ [2981259658](1)  🐧
 ## My Github status
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SillyBeee&show_icons=true&theme=dark&count_private=true)![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SillyBeee&theme=dark&layout=compact)
 ## Numbers of visitors
