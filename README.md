@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there ! It's SillyBeee 👋
+- I'm now a student in HDU :blush:
+- Member of CV group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)   🥵🥵🥵🥵🥵🥵🥵🥵
+- A game lover  :yum:
+## My Github status
+![Github Stats](https://github-readme-stats.vercel.app/api?username=SillyBeee&show_icons=true&theme=dark&count_private=true)
 
-<!--
-**SillyBeee/SillyBeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SillyBeee&theme=dark&layout=compact)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-activity-graph.cyclic.app/graph?username=SillyBeee&theme=dracula)
+
+### My Skill Set
+
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
