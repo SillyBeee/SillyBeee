@@ -7,7 +7,7 @@
 ## My Github status
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SillyBeee&show_icons=true&theme=dark&count_private=true)![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SillyBeee&theme=dark&layout=compact)
 ## Numbers of visitors
-![Visitor Count](https://profile-counter.glitch.me/你的Github用户名/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/SillyBeee/count.svg)
 
 
 
