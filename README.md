@@ -4,6 +4,7 @@
 - A game lover  :yum: 💻
 - My email 3576527475a@gmail.com  📧
 - Contact me on QQ [2981259658](1)  🐧
+- My [csdn page](https://blog.csdn.net/SillyBeee?spm=1010.2135.3001.5343)
 ## My Github status
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SillyBeee&show_icons=true&theme=dark&count_private=true)![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SillyBeee&theme=dark&layout=compact)
 ## Numbers of visitors
