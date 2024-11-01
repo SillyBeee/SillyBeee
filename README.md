@@ -6,9 +6,16 @@
 - A game lover  :yum: 💻
 - My email 3576527475a@gmail.com  📧
 - Contact me on QQ [2981259658](1)  🐧
-- My [CSDN blog page](https://blog.csdn.net/SillyBeee?spm=1010.2135.3001.5343)
+- My [CSDN Blog Page](https://blog.csdn.net/SillyBeee?spm=1010.2135.3001.5343)
 ## My Github status
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SillyBeee&show_icons=true&theme=dark&count_private=true)![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SillyBeee&theme=dark&layout=compact)
+## Github Commit
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SillyBeee/SillyBeee/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SillyBeee/SillyBeee/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SillyBeee/SillyBeee/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Numbers of visitors
 ![Visitor Count](https://profile-counter.glitch.me/SillyBeee/count.svg)
 
