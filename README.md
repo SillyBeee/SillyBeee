@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=0E0200&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
 # Hi there ! It's SillyBeee 👋
 - I'm now a student in HDU :blush:
