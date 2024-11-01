@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;)
+
 # Hi there ! It's SillyBeee 👋
 - I'm now a student in HDU :blush:
 - Member of CV group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)   🥵🥵🥵🥵🥵🥵🥵🥵
