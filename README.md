@@ -16,8 +16,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SillyBeee/SillyBeee/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Numbers of visitors
-![Visitor Count](https://profile-counter.glitch.me/SillyBeee/count.svg)
+
 
 
 <!--START_SECTION:waka-->
