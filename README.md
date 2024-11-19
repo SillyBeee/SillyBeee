@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=800&color=0E0200&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=800&color=9fe3ed&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=0E0200&width=435&lines=Hi+there+!+It's+SillyBeee+👋)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=9fe3ed&width=435&lines=Hi+there+!+It's+SillyBeee+👋)](https://git.io/typing-svg) 
 - I'm now a student in HDU :blush:
 - Member of CV group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)   🥵🥵🥵🥵🥵🥵🥵🥵
 - A game lover  :yum: 💻
