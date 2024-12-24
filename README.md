@@ -23,11 +23,30 @@
 <!--END_SECTION:waka-->
 ## My Skill Set
 
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![ROS 2 Version](https://img.shields.io/badge/ROS2-Humble-orange)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
+![Qt](https://img.shields.io/badge/-Qt-41CD52?style=plastic&logo=qt&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![ROS 2 Humble](https://img.shields.io/badge/ROS_2-Humble-58A6FF?logo=ros&logoColor=white)
 
 
-## My favorite IDE!
-![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+
+## Dev tools!
+![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+![Nano](https://img.shields.io/badge/Nano-4A90E2?logo=gnu&logoColor=white)
+
+## System
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white)
+
+
+
+----------
+
+
 
 
 
