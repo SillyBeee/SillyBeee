@@ -28,6 +28,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=plastic&logo=qt&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![ROS 2 Humble](https://img.shields.io/badge/ROS_2-Humble-58A6FF?logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
 
 
