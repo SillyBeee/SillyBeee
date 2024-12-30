@@ -31,6 +31,9 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![ROS 2 Humble](https://img.shields.io/badge/ROS_2-Humble-58A6FF?logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-red)
+![Keil5](https://img.shields.io/badge/-Keil%205-5A4E39?logo=keil&logoColor=white)
+
 
 
 
