@@ -33,6 +33,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-red)
 ![Keil5](https://img.shields.io/badge/-Keil%205-5A4E39?logo=keil&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?logo=solidworks&logoColor=white)
 
 
 
