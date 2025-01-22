@@ -31,7 +31,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![ROS 2 Humble](https://img.shields.io/badge/ROS_2-Humble-58A6FF?logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-red)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 ![Keil5](https://img.shields.io/badge/-Keil%205-5A4E39?logo=keil&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?logo=solidworks&logoColor=white)
 
@@ -49,8 +49,7 @@
 ## System
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white)
-![Proxmox VE](https://img.shields.io/badge/Proxmox%20VE-Virtualization-orange?logo=https://img.dexbug.com/i/2025/01/23/262yub.png)
-
+![Proxmox](https://img.shields.io/badge/Proxmox-Virtualization-orange?logo=proxmox&logoColor=white)
 
 
 ----------
