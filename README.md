@@ -49,6 +49,7 @@
 ## System
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white)
+![Proxmox VE](https://img.shields.io/badge/Proxmox%20VE-Virtualization-orange?logo=https://img.dexbug.com/i/2025/01/23/262yub.png)
 
 
 
