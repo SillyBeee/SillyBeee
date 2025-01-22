@@ -44,6 +44,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 ![Nano](https://img.shields.io/badge/Nano-4A90E2?logo=gnu&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-Debugger-blue)
 
 ## System
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
