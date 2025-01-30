@@ -17,10 +17,6 @@
 </picture>
 
 
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 ## My Skill Set
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
