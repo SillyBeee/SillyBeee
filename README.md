@@ -32,8 +32,8 @@
 ![ROS 2 Humble](https://img.shields.io/badge/ROS_2-Humble-58A6FF?logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
-![Keil5](https://img.shields.io/badge/-Keil%205-5A4E39?logo=keil&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?logo=solidworks&logoColor=white)
+
+
 
 
 
@@ -45,11 +45,22 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 ![Nano](https://img.shields.io/badge/Nano-4A90E2?logo=gnu&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-Debugger-blue)
+![Cargo](https://img.shields.io/badge/Cargo-000000?style=flat&logo=cargo&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
+
+## IDE
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![RustRover](https://img.shields.io/badge/RustRover-000000?style=flat&logo=jetbrains&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?logo=solidworks&logoColor=white)
+![Keil5](https://img.shields.io/badge/-Keil%205-5A4E39?logo=keil&logoColor=white)
 
 ## System
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-Virtualization-orange?logo=proxmox&logoColor=white)
+
+
 
 
 ----------
