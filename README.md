@@ -24,7 +24,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-R2023a-blue?logo=mathworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=plastic&logo=qt&logoColor=white)
@@ -32,6 +32,10 @@
 ![ROS 2 Humble](https://img.shields.io/badge/ROS_2-Humble-58A6FF?logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-002D72?style=flat-square&logo=freertos&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+
 
 
 
