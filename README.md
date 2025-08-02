@@ -34,8 +34,8 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-002D72?style=flat-square&logo=freertos&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-
+![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-orange)
+![Isaac Sim](https://img.shields.io/badge/NVIDIA-Isaac%20Sim-blue)
 
 
 
