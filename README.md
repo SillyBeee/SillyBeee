@@ -56,13 +56,16 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![RustRover](https://img.shields.io/badge/RustRover-000000?style=flat&logo=jetbrains&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?logo=solidworks&logoColor=white)
 ![Keil5](https://img.shields.io/badge/-Keil%205-5A4E39?logo=keil&logoColor=white)
 
 ## System
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-Virtualization-orange?logo=proxmox&logoColor=white)
+
 
 
 
