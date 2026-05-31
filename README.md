@@ -1,12 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=800&color=9fe3ed&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&color=9fe3ed&width=435&lines=Hi+there+!+It's+SillyBeee+👋)](https://git.io/typing-svg) 
-- I'm now a student in HDU :blush:
-- Member of CV group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)   🥵🥵🥵🥵🥵🥵🥵🥵
-- A game lover  :yum: 💻
-- My email 3576527475a@gmail.com  📧
-- Contact me on QQ [2981259658](1)  🐧
-- My [Personal Blog](https://sillybeee.github.io/)
+- I am currently an undergraduate at HDU, focusing on embodied intelligence, robot control, and Linux embedded systems.
+- I am a fullstack robotic developer at [@HDU-PHOENIX](https://github.com/HDU-PHOENIX).
+- My email: 3576527475a@gmail.com  📧
+- QQ: [2981259658](1)  🐧
+- Personal Blog: [sillybeee.github.io](https://sillybeee.github.io/)
+
+---
+## Internship
+
+- **[AgiBot](https://github.com/AgibotTech)** · Robotics Software Intern *(current)*
+- **[Fourier Intelligence](https://github.com/FFTAI)** · Humanoid Robot System Software Intern *(2026)*
+- **Zeno Robotics** · Robotic Arm Algorithm Intern *(2025)*
+
 ## My Github status
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SillyBeee&show_icons=true&theme=dark&count_private=true)![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SillyBeee&theme=dark&layout=compact)
 ## Github Commit
