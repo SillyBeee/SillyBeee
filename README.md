@@ -10,7 +10,7 @@
 ---
 ## Internship
 
-- **[AgiBot](https://github.com/AgibotTech)** · Robotics Software Intern *(current)*
+- **[AgiBot Tech](https://github.com/AgibotTech)** · Robotics Software Intern *(current)*
 - **[Fourier Intelligence](https://github.com/FFTAI)** · Humanoid Robot System Software Intern *(2026)*
 - **Zeno Robotics** · Robotic Arm Algorithm Intern *(2025)*
 
